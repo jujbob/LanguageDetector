@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 3.5.0 (C:\Users\user1\AppData\Local\Programs\Python\Python35\python.exe) interpreter library">
+    <archive path="C:/Users/user1/AppData/Local/Programs/Python/Python35/DLLs" />
+    <archive path="C:/Users/user1/AppData/Local/Programs/Python/Python35/Lib" />
+    <archive path="C:/Users/user1/AppData/Local/Programs/Python/Python35" />
+    <archive path="C:/Users/user1/AppData/Local/Programs/Python/Python35/Lib/site-packages" />
+    <archive path="C:/Users/user1/.IntelliJIdea14/config/plugins/python/helpers/python-skeletons" />
+    <archive path="C:/Users/user1/.IntelliJIdea14/system/python_stubs/-1475215666" />
+  </library>
+</eclipse-userlibraries>
+
